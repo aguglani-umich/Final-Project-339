@@ -2052,6 +2052,11 @@
       min-width: 100%;
     }  
 
+    .scaleImage:hover {
+      transform: scale(1.0); 
+    }
+  
+
     .skip-to-content-link {
       height: 30px;
       left: 50%;
